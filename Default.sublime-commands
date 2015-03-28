@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Modo : Run Active Script",
+        "command": "modo_remote_run_active_script"
+    },
+    {
+        "caption" : "Modo : Open Telnet Command To Clipboard",
+        "command" : "modo_remote_open_telnet_command_to_clipboard"
+    }
+]

@@ -1,0 +1,8 @@
+[
+    {
+        "command": "modo_remote_run_active_script", 
+        "keys": [
+            "ctrl+e"
+        ]
+    }
+]
