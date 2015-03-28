@@ -1,3 +1,3 @@
 #python
 import lx
-lx.out("hello modos")
+lx.out("hello modo")

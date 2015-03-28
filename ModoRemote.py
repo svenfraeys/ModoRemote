@@ -54,7 +54,7 @@ class ModoRemoteOpenTelnetCommandToClipboard(sublime_plugin.WindowCommand):
     def run(self):
         """run the command
         """
-        modo_command = "telnet.listen %s true" % PORT
+        modo_command = modo_remote.construct_modo_telnet_command(HOST, PORT)
         sublime.set_clipboard(modo_command)
 
 class ModoRemoteRunActiveScript(sublime_plugin.WindowCommand):
