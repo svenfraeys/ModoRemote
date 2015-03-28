@@ -11,3 +11,9 @@ Remote control for modo for sublime text
 # Constribution
 
 * Gwynne Reddick : Providing modosock.py
+
+# Release notes
+
+## v0.1.0
+
+* first version of tool
